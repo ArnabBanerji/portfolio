@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "description": "Arnab Banerji's portfolio",
+  "main": "index.html",
+  "authors": [
+    "Arnab Banerji"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "arnab",
+    "banerji",
+    "portfolio",
+    "angularjs",
+    "threejs"
+  ],
+  "homepage": "https://github.com/ArnabBanerji/portfolio",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
