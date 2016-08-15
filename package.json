@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Arnab Banerji's portfolio",
   "main": "index.html",
-  "devDependencies": {
-    "bower": "latest"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -25,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/ArnabBanerji/portfolio/issues"
   },
-  "homepage": "https://github.com/ArnabBanerji/portfolio#readme"
+  "homepage": "https://github.com/ArnabBanerji/portfolio#readme",
+  "dependencies": {
+    "grunt": "latest",
+    "bower": "latest",
+    "grunt-contrib-concat": "^1.0.1"
+  }
 }
